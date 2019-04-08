@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with no conscience
 image: /img/f7cf9ebf-5478-418f-bd82-4ab9a936a061.jpeg
-heading: Great coffee with a conscience
+heading: Great coffee with no conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
